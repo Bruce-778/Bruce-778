@@ -10,7 +10,7 @@
     🔬 <b>Research:</b> EdTech | SSRL | CSCL
   </p>
   <p>
-    🍀 <b>Exploring:</b> Learning Analytics & SSRL &nbsp;&nbsp;
+    🍀 <b>Exploring:</b> Collabrative Learning & Learning Analyse &nbsp;&nbsp;
     🤖 <b>Building:</b> <code>M-Agent</code> (Intelligent System)
   </p>
 </div>
