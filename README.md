@@ -27,6 +27,6 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Bruce-778&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=7aa2f7" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruce-778&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=7aa2f7" height="165" />
+  <img src="https://github-readme-stats-phi-roan-11.vercel.app/api?username=Bruce-778&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=7aa2f7" height="165" />
+  <img src="https://github-readme-stats-phi-roan-11.vercel.app/api/top-langs/?username=Bruce-778&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=7aa2f7" height="165" />
 </div>
