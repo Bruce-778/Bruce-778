@@ -2,7 +2,6 @@
   <h1>Hi, I'm Bruce 👋</h1>
 </div>
 
-
 <div align="center">
   <h3>🎓 Background & Research</h3>
   <p>
@@ -10,7 +9,7 @@
     🔬 <b>Research:</b> EdTech | SSRL | CSCL
   </p>
   <p>
-    🍀 <b>Exploring:</b> Collabrative Learning & Learning Analyse &nbsp;&nbsp;
+    🍀 <b>Exploring:</b> Collaborative Learning & Learning Analytics &nbsp;&nbsp;
     🤖 <b>Building:</b> <code>M-Agent</code> (Intelligent System)
   </p>
 </div>
@@ -27,5 +26,9 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats-phi-roan-11.vercel.app/api?username=Bruce-778&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=7aa2f7" height="165" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Bruce-778&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=00000000&amp;hide_border=true&amp;title_color=7aa2f7&amp;cache_seconds=86400" 
+    height="165" 
+    alt="GitHub Stats" 
+  />
 </div>
