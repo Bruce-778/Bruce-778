@@ -1,16 +1,18 @@
 <div align="center">
-  <h1>Hi, I'm Bruce 👋</h1>
+  <h1>Hi, I'm Bruce Tu 👋</h1>
 </div>
 
 <div align="center">
   <h3>🎓 Background & Research</h3>
   <p>
-    🏛️ <b>Education:</b> Zhejiang University of Technology &nbsp;&nbsp; 
-    🔬 <b>Research:</b> EdTech | SSRL | CSCL
+    🏛️ <b>Education:</b> B.S. in Educational Technology, ZJUT → MSc in CIE, CityU
+    &nbsp;&nbsp; 
+    🔬 <b>Research:</b> EdTech · SSRL · CSCL
   </p>
   <p>
-    🍀 <b>Exploring:</b> Collaborative Learning & Learning Analytics &nbsp;&nbsp;
-    🤖 <b>Building:</b> <code>M-Agent</code> (Intelligent System)
+    🍀 <b>Exploring:</b> Collaborative Learning · Learning Analytics
+    &nbsp;&nbsp;
+    🤖 <b>Building:</b> <code>M-Agent</code> · <code>XioohTravel</code>
   </p>
 </div>
 
