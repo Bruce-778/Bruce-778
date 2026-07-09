@@ -24,11 +24,4 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 </div>
 
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Bruce-778&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=00000000&amp;hide_border=true&amp;title_color=7aa2f7&amp;cache_seconds=86400" 
-    height="165" 
-    alt="GitHub Stats" 
-  />
 </div>
